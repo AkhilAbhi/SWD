@@ -1,0 +1,148 @@
+body{
+	margin:0px;
+	background:#DCDCDC;
+}
+
+
+
+.head{
+  		width:100%;
+  		height:200px;
+  		background:#69F8DE;
+  		
+  		
+}
+.logo-png{
+	width:100px;
+	height:100px;
+	margin-top:35px;
+	margin-left:30px;
+	border-radius:20px;
+}
+.logo{
+	width:20%;
+	height:180px;
+	
+	float:left;
+}
+.name{
+	width:80%;
+	height:180px;
+	
+	float:left;
+}
+.name-logo{
+	font-size:50px;
+	margin-left:30%;
+	
+}
+.name-p{
+	margin-left:25%;
+}
+.a{
+	text-decoration:none;
+}
+h2{
+	margin-top:0px;
+	color:black;
+}
+.menu1{
+	float:left;
+	margin-left:80px;
+	font-size:20px;
+	
+}
+.menu2{
+	float:left;
+	margin-left:140px;
+	font-size:20px;
+	
+}
+.menu-about{
+	color:blue;
+	font-size:40px;
+}
+.menu3{
+	float:left;
+	margin-left:140px;
+	font-size:20px;
+}
+.menu4{
+	float:left;
+	margin-left:140px;
+	font-size:20px;
+}
+.menu{
+	border-bottom:2px solid black;
+	height:50px;
+	
+	
+}
+
+
+
+.abouts{
+	text-align:left;
+	border:2px solid #F3A3A3;
+}
+.abouts-h1{
+	font-size:30px;
+}
+.mar{
+	
+}
+
+.chek{
+	
+}
+.chek-h1{
+	margin-left:30px;
+}
+.chek-di{
+	margin-left:40px;
+}
+.chek-li{
+	font-size:25px;
+	color:#FB6868;
+}
+
+.leaders-h1{
+	margin-left:30px;
+	
+	
+}
+.leaders-di{
+	margin-left:40px;
+}
+.leaders-li{
+	font-size:25px;
+	color:blue;
+	
+
+	}
+	
+	.leaders{
+		margin-top:50px;
+		border-top:3px solid black;
+	}
+	.leaders-a{
+	text-decoration:none;
+}
+
+.office{
+	margin-top:60px;
+	border-top:3px solid black;
+}
+
+.office-h1{
+	margin-left:30px;
+	font-size:40px;
+}
+.office-h3{
+	margin-left:40px;
+	font-size:30px;
+}
+.office-a{
+	margin-left:40px;
+	font-size:30px;
+}
