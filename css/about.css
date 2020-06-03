@@ -130,13 +130,16 @@ h2{
 }
 
 .office{
-	margin-top:60px;
+	margin-top:70px;
 	border-top:3px solid black;
+	
 }
 
 .office-h1{
 	margin-left:30px;
 	font-size:40px;
+	margin-top:60px;
+	border-bottom:2px solid #939191;
 }
 .office-h3{
 	margin-left:40px;
@@ -145,4 +148,47 @@ h2{
 .office-a{
 	margin-left:40px;
 	font-size:30px;
+}
+.whatsapp{
+	border-top:3px solid black;
+	margin-top:70px;
+	
+	
+}
+.whatsapp-h1{
+	border-bottom:2px solid #939191;
+	margin-top:40px;
+	margin-left:30px;
+	color:#0094FE;
+	font-size:30px;
+}
+.whatsapp-group{
+	margin-top:30px;
+	margin-left:20px;
+	border-bottom:2px solid #6AB1FD;
+	margin-left:40px
+}
+.whatsapp-nu{
+	margin-top:50px;
+	margin-left:40px;
+	
+	
+}
+
+.email{
+	margin-top:60px;
+	
+	border-top:3px solid black;
+}
+.email-company{
+	margin-left:40px;
+	border-bottom:2px solid #6AB1FD;
+}
+.email-leader1{
+	margin-left:40px;
+	margin-top:40px;
+}
+.email-leader2{
+	margin-left:40px;
+	
 }
