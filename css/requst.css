@@ -1,0 +1,58 @@
+body{
+	margin:0px;
+	background:#E3E3E3;
+}
+
+
+.root{
+	padding-left:50px;
+}
+
+
+h1{
+	font-size:15px;
+	color:#EF8383;
+}
+.heder{
+	margin-top:40px;
+	margin-bottom:60px;
+	
+}
+h3{
+	font-size:15px
+}
+h4{
+	font-size:15px
+}
+h4{
+	color:green;
+}
+.h1spm{
+	font-size:9px;
+	color:blue;
+}
+.mail-cls{
+	color:blue;
+}
+.mail-h1{
+	margin-bottom:40px;
+}
+.msg{
+	font-size:10px;
+}
+.p{
+	color:red;
+}
+.submit{
+	border:2px solid black;
+	margin-right:45%;
+	
+}
+.whatsapp-h1{
+	font-size:20px;
+	margin-bottom:50px;
+}
+.whatsapp{
+	margin-top:50px;
+	
+}
