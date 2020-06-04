@@ -56,3 +56,16 @@ h4{
 	margin-top:50px;
 	
 }
+.button{
+	text-align:center;
+	margin-top:70px;
+	margin-bottom:50px;
+}
+button{
+	font-size:40px;
+	border:20px solid #00FFFF;
+	width:40%;
+	color:black;
+	height:100px;
+	
+}
