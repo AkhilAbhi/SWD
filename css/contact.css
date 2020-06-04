@@ -1,5 +1,6 @@
 body{
 	margin:0px;
+	background:#DCDCDC;
 }
 
 
@@ -76,4 +77,39 @@ h2{
 	height:50px;
 	
 	
+}
+
+.leader{
+	margin-top:30px;
+}
+.ld{
+	text-align:center;
+	background:#FFDFDF;
+	
+}
+.email{
+	margin-top:80px;
+}
+h3{
+	margin-left:30px;
+	margin-top:40px;
+}
+.leader1{
+	border-bottom:3px solid black;
+	margin-bottom:70px;
+	background:white;
+}
+.leader2{
+	border-bottom:3px solid black;
+	margin-bottom:70px;
+	background:white;
+}
+span{
+	color:blue;
+}
+.red{
+	color:red;
+}
+.ce{
+	color:red;
 }
