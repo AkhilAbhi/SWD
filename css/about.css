@@ -61,6 +61,7 @@ h2{
 .menu-about{
 	color:blue;
 	font-size:40px;
+	border-bottom:7px solid #003CFF;
 }
 .menu3{
 	float:left;

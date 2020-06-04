@@ -59,6 +59,7 @@ h2{
 .menu-events{
 	color:blue;
 	font-size:40px;
+	border-bottom:7px solid #003CFF;
 }
 .menu3{
 	float:left;
